@@ -1467,3 +1467,22 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2022.08.04-22.03.12:976][701]LogContentValidation: Display: Validating StaticMesh /Game/EasyBuildingSystem/Meshes/Environment/Stylized/Organic/SM_Cliff_003.SM_Cliff_003
 [2022.08.04-22.03.12:976][701]LogContentValidation: Display: Validating StaticMesh /Game/EasyBuildingSystem/Meshes/Environment/Stylized/Organic/SM_Cliff_002.SM_Cliff_002
 [2022.08.04-22.03.12:976][701]LogContentValidation: Display: Validating StaticMesh /Game/EasyBuildingSystem/Meshes/Environment/Stylized/Organic/SM_Cliff_001.SM_Cliff_001
+[2022.08.04-22.12.26:914][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-22.12.26:914][896]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_NewMapCecilija
+[2022.08.04-22.12.26:914][896]LogWorld: UWorld::CleanupWorld for NewMapCecilija, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-22.12.26:915][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-22.12.26:938][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.04-22.12.26:941][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-22.12.26:947][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-22.12.26:948][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.04-22.12.26:949][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.04-22.12.26:956][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-22.12.26:959][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.04-22.12.27:006][897]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.08.04-22.13.18:695][952]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.08.04-22.20.24:279][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.04-22.20.24:431][979]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/NewMapCecilija
+[2022.08.04-22.20.24:433][979]LogSavePackage: Moving '../../../../../../Projects/SummerAssignment-CSR/Saved/NewMapCecilija5079F6CA4AF212F8C15E29A3109A8C79.tmp' to '../../../../../../Projects/SummerAssignment-CSR/Content/StarterContent/Maps/NewMapCecilija.umap'
+[2022.08.04-22.20.24:447][979]LogFileHelpers: No new changes to save!
+[2022.08.04-22.20.24:476][979]AssetCheck: New page: Asset Save: NewMapCecilija
+[2022.08.04-22.20.24:476][979]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/NewMapCecilija.NewMapCecilija
