@@ -748,3 +748,4 @@ Recommended: 511.79
 [2022.08.19-17.13.56:079][200]LogFileHelpers: Loading map 'NewMapCecilija' took 0.787
 [2022.08.19-17.13.59:274][273]LogSlate: Window 'Message Log' being destroyed
 [2022.08.19-17.13.59:286][273]LogSlate: Window 'Message Log' being destroyed
+[2022.08.19-17.15.43:386][165]LogDerivedDataCache: C:/Users/criht/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.337 and deleted 0 file(s) with total size 0 MiB.
