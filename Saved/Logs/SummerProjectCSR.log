@@ -1479,3 +1479,52 @@ Recommended: 511.79
 [2022.08.19-14.30.35:743][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.08.19-14.30.35:745][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2022.08.19-14.30.35:779][211]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.08.19-14.32.30:635][978]Cmd: TRANSACTION UNDO
+[2022.08.19-14.32.30:635][978]LogEditorTransaction: Undo Foliage Editing
+[2022.08.19-14.34.03:085][194]LogLinker: Warning: [AssetLog] C:\Projects\SummerAssignment-CSR\Content\Megascans\3D_Assets\Icelandic_Volcano_Terrain_tayv6\MI_Icelandic_Volcano_Terrain_tayv6_2K.uasset: Failed to load '/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material': Can't find file.
+[2022.08.19-14.34.03:085][194]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material'
+[2022.08.19-14.34.37:099][120]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Icelandic_Volcano_Terrain_tayv6/S_Icelandic_Volcano_Terrain_tayv6_lod3.S_Icelandic_Volcano_Terrain_tayv6_lod3
+[2022.08.19-14.34.37:169][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.19-14.34.59:846][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Icelandic_Volcano_Terrain_tayv6/S_Icelandic_Volcano_Terrain_tayv6_lod3.S_Icelandic_Volcano_Terrain_tayv6_lod3
+[2022.08.19-14.34.59:846][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Icelandic_Volcano_Terrain_tayv6/S_Icelandic_Volcano_Terrain_tayv6_lod3.S_Icelandic_Volcano_Terrain_tayv6_lod3
+[2022.08.19-14.34.59:846][ 43]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Icelandic_Volcano_Terrain_tayv6/S_Icelandic_Volcano_Terrain_tayv6_lod3.S_Icelandic_Volcano_Terrain_tayv6_lod3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/NewMapCecilija.NewMapCecilija:PersistentLevel.StaticMeshActor_2
+[2022.08.19-14.35.05:902][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Icelandic_Volcano_Terrain_tayv6/S_Icelandic_Volcano_Terrain_tayv6_lod3.S_Icelandic_Volcano_Terrain_tayv6_lod3
+[2022.08.19-14.35.05:902][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Icelandic_Volcano_Terrain_tayv6/S_Icelandic_Volcano_Terrain_tayv6_lod3.S_Icelandic_Volcano_Terrain_tayv6_lod3
+[2022.08.19-14.35.05:903][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Icelandic_Volcano_Terrain_tayv6/S_Icelandic_Volcano_Terrain_tayv6_lod3.S_Icelandic_Volcano_Terrain_tayv6_lod3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/NewMapCecilija.NewMapCecilija:PersistentLevel.StaticMeshActor_8
+[2022.08.19-14.35.23:287][ 40]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.08.19-14.35.58:901][550]LogMaterial: Display: Missing cached shadermap for T_Icelandic_Volcano_Terrain_tayv6_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 71EB042F2BD0EB52C3E83F82D1EC5EFC4F39007F), compiling. 
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: ================================================
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Total job queries 70, among them cache hits 0 (0.00%)
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Tracking 67 distinct input hashes that result in 57 distinct outputs (85.07%)
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Shaders Compiled: 68
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Jobs assigned 70, completed 67 (95.71%)
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Average time worker was idle: 1734.85 s
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Job execution time: average 11.05 s, max 12.58 s
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Job life time (pending + execution): average 11.13 s, max 12.67
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.32 s
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 5.83 jobs/batch
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Average processing rate: 5.03 jobs/sec
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Effective parallelization: 5.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.95 sec, max 2.32 sec, min 1.57 sec)
+[2022.08.19-14.35.59:625][565]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.80 sec, max 2.15 sec, min 1.46 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.65 sec, max 1.68 sec, min 1.63 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.65 sec, max 1.89 sec, min 1.40 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.60 sec, max 1.65 sec, min 1.54 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.44% of total time (compiled    2 times, average 1.95 sec, max 2.32 sec, min 1.57 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.04% of total time (compiled    2 times, average 1.80 sec, max 2.15 sec, min 1.46 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.62% of total time (compiled    2 times, average 1.65 sec, max 1.68 sec, min 1.63 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 4.61% of total time (compiled    2 times, average 1.65 sec, max 1.89 sec, min 1.40 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.47% of total time (compiled    2 times, average 1.60 sec, max 1.65 sec, min 1.54 sec)
+[2022.08.19-14.35.59:626][565]LogShaderCompilers: Display: ================================================
+[2022.08.19-14.36.50:551][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.08.19-14.36.50:705][679]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/NewMapCecilija
+[2022.08.19-14.36.50:706][679]LogSavePackage: Moving '../../../../../../Projects/SummerAssignment-CSR/Saved/NewMapCecilija4C4FF01A4AE4777E754301BEF23F43DC.tmp' to '../../../../../../Projects/SummerAssignment-CSR/Content/ThirdPerson/Maps/NewMapCecilija.umap'
+[2022.08.19-14.36.50:720][679]LogFileHelpers: No new changes to save!
+[2022.08.19-14.36.50:730][679]AssetCheck: New page: Asset Save: NewMapCecilija
+[2022.08.19-14.36.50:731][679]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/NewMapCecilija.NewMapCecilija
