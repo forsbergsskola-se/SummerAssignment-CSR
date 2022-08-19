@@ -373,3 +373,22 @@
 [0819/184043.685:ERROR:entry_impl.cc(1076)] No file for 80000531
 [0819/184043.685:ERROR:entry_impl.cc(1076)] No file for 8000052d
 [0819/184043.686:ERROR:entry_impl.cc(1076)] No file for 8000058e
+[0819/184937.298:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[0819/184937.298:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184937.299:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0819/184937.299:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184937.299:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184937.299:ERROR:entry_impl.cc(1076)] No file for c1030070
+[0819/184937.299:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184937.299:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184937.299:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184937.299:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184937.299:ERROR:entry_impl.cc(1076)] No file for c1030062
+[0819/184937.299:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184937.299:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184938.147:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184938.148:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184938.150:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184938.153:WARNING:storage_block-inl.h(146)] Failed data load.
+[0819/184938.154:ERROR:entry_impl.cc(998)] Failed to save user data
+[0819/184938.154:ERROR:entry_impl.cc(998)] Failed to save user data
