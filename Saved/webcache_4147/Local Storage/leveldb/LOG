@@ -1,5 +1,4 @@
-2022/08/19-15:43:06.556 4228 Reusing MANIFEST C:/Projects/SummerAssignment-CSR/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2022/08/19-15:43:06.557 4228 Recovering log #3
-2022/08/19-15:43:06.558 4228 Level-0 table #3: started
-2022/08/19-15:43:06.562 4228 Level-0 table #3: 13580 bytes OK
-2022/08/19-15:43:06.564 4228 Delete type=0 #3
+2022/08/19-16:06:47.759 728c Reusing MANIFEST C:/Projects/SummerAssignment-CSR/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2022/08/19-16:06:47.760 728c Recovering log #4
+2022/08/19-16:06:47.761 728c Reusing old log C:/Projects/SummerAssignment-CSR/Saved/webcache_4147\Local Storage\leveldb/000004.log 
+2022/08/19-16:06:47.761 728c Delete type=0 #3
