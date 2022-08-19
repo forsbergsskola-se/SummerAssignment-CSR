@@ -1528,3 +1528,8 @@ Recommended: 511.79
 [2022.08.19-14.36.50:720][679]LogFileHelpers: No new changes to save!
 [2022.08.19-14.36.50:730][679]AssetCheck: New page: Asset Save: NewMapCecilija
 [2022.08.19-14.36.50:731][679]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/NewMapCecilija.NewMapCecilija
+[2022.08.19-14.38.52:324][368]LogEditorViewport: Clicking Background
+[2022.08.19-14.42.15:951][ 46]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.08.19-14.43.20:870][135]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.08.19-14.43.25:227][329]Cmd: DUPLICATE
+[2022.08.19-14.43.25:227][329]Cmd: ACTOR DUPLICATE
